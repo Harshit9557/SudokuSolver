@@ -1,4 +1,4 @@
-                                                                               Sudoku Solver
+Sudoku Solver
 
 Sudoku:- It is a logic-based, combinational number-placement puzzle in which our objective is to fill a 9x9 grid/matrix and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9.
 
